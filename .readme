@@ -1,0 +1,4 @@
+php artisan db:seed --class=UsersTableSeeder
+postman : 
+https://lively-flare-628824.postman.co/workspace/My-Workspace~42ce9e91-896e-4072-8597-6fc3b77416ba/collection/3753008-bd5bc6f8-5df1-4073-8781-9790e21a47fc?action=share&creator=3753008
+
